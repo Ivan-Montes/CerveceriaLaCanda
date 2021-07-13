@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://lacanda.000webhostapp.com/sitemap.xml
